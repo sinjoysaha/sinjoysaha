@@ -9,4 +9,4 @@
   * [LinkedIn](https://linkedin.com/in/sinjoysaha)
   * [Twitter](https://twitter.com/SinjoySaha)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am bibliophile turned cinephile! 
+- ⚡ Fun fact: I am a bibliophile turned cinephile! 
