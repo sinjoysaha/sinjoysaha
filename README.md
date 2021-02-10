@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with Python code, Tableau Visualization or any thing remotely related to Data Analytics
 - 💬 Ask me about Movies
 - 📫 How to reach me: 
-  * [linkedin@sinjoysaha](https://linkedin.com/in/sinjoysaha)
-  * [twitter@SinjoySaha](https://twitter.com/SinjoySaha)
+  * [LinkedIn](https://linkedin.com/in/sinjoysaha)
+  * [Twitter](https://twitter.com/SinjoySaha)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I am bibliophile turned cinephile! 
