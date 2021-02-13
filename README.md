@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/sinjoysaha/sinjoysaha/img/hello.gif" height="240" width="240">
+<img align="right" src="https://github.com/sinjoysaha/sinjoysaha/blob/main/img/hello.gif" height="240" width="240">
 - 🔭 I’m currently working on [`Sales Analysis`](https://github.com/sinjoysaha/sales-analysis/)
 - 🌱 I’m currently learning Data Visualization with Tableau
 - 👯 I’m looking to collaborate on Data Analytics projects
