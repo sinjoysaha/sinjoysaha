@@ -13,3 +13,10 @@
   * [Twitter](https://twitter.com/SinjoySaha)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bibliophile turned cinephile!
+
+<p align="center">
+<a href="https://github.com/sinjoysaha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinjoysaha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinjoysaha&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
