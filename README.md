@@ -9,8 +9,8 @@
 - 💬 Ask me about Movies 
   - 🎬 Check out  [`Disney Movies Wiki WebScraper`](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper)
 - 📫 How to reach me
-  * [LinkedIn](https://linkedin.com/in/sinjoysaha)
-  * [Twitter](https://twitter.com/SinjoySaha)
+  * 💼 [LinkedIn](https://linkedin.com/in/sinjoysaha)
+  * 🐤 [Twitter](https://twitter.com/SinjoySaha)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bibliophile turned cinephile!
 
