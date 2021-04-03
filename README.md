@@ -2,17 +2,16 @@
 
 <img align="right" src="https://github.com/sinjoysaha/sinjoysaha/blob/main/img/hello.gif" height="240" width="240">
 
-- 🔭 I’m currently working on [`Sentiment Analysis of Amazon Reviews`](https://github.com/sinjoysaha/Amazon-Reviews-NLP)
-- 🌱 I’m currently learning **Flask** for deployment, **Tableau** for data visualization
+- 🔭 I’m currently working on [`Image Segmentation Problems` - Check out this Kaggle Notebook](https://www.kaggle.com/sinjoysaha/segmentation-with-u-net)🧠
+- 🌱 I’m currently learning **Flask** for deployment ✨, **Tableau** for data visualization 📊
 - 👯 I’m looking to collaborate on **Data Analytics** projects
 - 🤔 I’m looking for help with **Python** code, Tableau Visualization or any thing remotely related to Data Analytics
 - 💬 Ask me about Movies 
-  - 🎬 Check out  [`Disney Movies Wiki WebScraper`](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper)
-- 📫 How to reach me
+  - 📓 Check out  [`Check out my Kaggle Notebooks`](https://www.kaggle.com/sinjoysaha/code)
+- 📬 How to reach me
   * 💼 [LinkedIn](https://linkedin.com/in/sinjoysaha)
   * 🐤 [Twitter](https://twitter.com/SinjoySaha)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a bibliophile turned cinephile!
+  * 📘 [Kaggle](https://www.kaggle.com/sinjoysaha)
 
 <p align="center">
 <a href="https://github.com/sinjoysaha">
