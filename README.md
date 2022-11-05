@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/sinjoysaha/sinjoysaha/blob/main/img/hello.gif" height="240" width="240">
+<img align="right" src="img/hello.gif" height="240" width="240">
 
 - 🔭 I’m currently working on [`Image Segmentation Problems` - Check out this Kaggle Notebook](https://www.kaggle.com/sinjoysaha/segmentation-with-u-net)🧠
 - 🌱 I’m currently learning **Flask** for deployment ✨, **Tableau** for data visualization 📊
