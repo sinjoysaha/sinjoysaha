@@ -65,9 +65,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-
 
 ## 💬 Can Speak 
 
@@ -124,14 +121,14 @@
 
 ## Top Kaggle Notebooks
 
-- [`Federated Learning on MNIST`](https://www.kaggle.com/code/sinjoysaha/federated-learning-mnist-cifar-10)
-- [`Brain Tumor Segmentation from MRI using PSPNet`](https://www.kaggle.com/code/sinjoysaha/pspnet-for-brain-mri)
-- [`Cell Nuclei Segmentation using U-Net`](https://www.kaggle.com/code/sinjoysaha/segmentation-with-u-net)
-- [`Hearbeat Classification using LSTM`](https://www.kaggle.com/code/sinjoysaha/heartbeat-classification-using-lstm)
-- [`American Sign Language Classification using Attention Network`](https://www.kaggle.com/code/sinjoysaha/a-sign-lang-classification-with-tl-attention)
-- [`Stock Price Forecasting using Stacked LSTM`](https://www.kaggle.com/code/sinjoysaha/stock-price-forecasting-using-stacked-lstm)
+- [Federated Learning on MNIST](https://www.kaggle.com/code/sinjoysaha/federated-learning-mnist-cifar-10)
+- [Brain Tumor Segmentation from MRI using PSPNet](https://www.kaggle.com/code/sinjoysaha/pspnet-for-brain-mri)
+- [Cell Nuclei Segmentation using U-Net](https://www.kaggle.com/code/sinjoysaha/segmentation-with-u-net)
+- [Hearbeat Classification using LSTM](https://www.kaggle.com/code/sinjoysaha/heartbeat-classification-using-lstm)
+- [American Sign Language Classification using Attention Network](https://www.kaggle.com/code/sinjoysaha/a-sign-lang-classification-with-tl-attention)
+- [Stock Price Forecasting using Stacked LSTM](https://www.kaggle.com/code/sinjoysaha/stock-price-forecasting-using-stacked-lstm)
 
-- [`Brain Tumor Detection using Transfer Learning`](https://www.kaggle.com/code/sinjoysaha/brain-tumor-detection-using-transfer-learning)
+- [Brain Tumor Detection using Transfer Learning](https://www.kaggle.com/code/sinjoysaha/brain-tumor-detection-using-transfer-learning)
 
 <p align="left">
   <a href="https://www.kaggle.com/sinjoysaha/code?userId=2072459&sortBy=voteCount&tab=profile" target="_blank"><img alt="All Notebooks" title="All Notebooks" src="https://img.shields.io/badge/-All%20Notebooks-1e48bf?style=for-the-badge&logo=koding&logoColor=white"/></a>
