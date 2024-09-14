@@ -52,13 +52,13 @@
 <p>
  <img align="right" width="240" src="img/coder.gif" alt="Hello gif" />
 
- 💼 &emsp; Currently working as a Senior Research Engineer at MI, [Siemens Healthineers](https://www.siemens-healthineers.com/molecular-imaging).
+ 🎓 &emsp; MS Computer Science and Engineering at the [Penn State Univeristy](https://www.psu.edu/).
 
- ✌️ &emsp; Interested in Computer Vision, NLP and Robotics.
+ 💼 &emsp; Worked as a Senior Research Engineer at MI, [Siemens Healthineers](https://www.siemens-healthineers.com/molecular-imaging).
+
+ ✌️ &emsp; Interested in Vision-Language Models and Robotics.
  
  ❤️ &emsp; Passionate about coding and learning new features.
-
- 📫 &emsp; Reach me anytime: sinjoysaha555 [AT] gmail.com.
 
  💬 &emsp; Ask me about anything [here](https://github.com/sinjoysaha/sinjoysaha/issues).
 
@@ -108,12 +108,12 @@
   
   
 ## 🚀 Top Open Source Repos
-[![Amazon Reviews NLP](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Amazon-Reviews-NLP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Amazon-Reviews-NLP)
+[![Tiktokenizer-js](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=tiktokenizer-js&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/tiktokenizer-js)
 [![Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=sales-analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/sales-analysis)
+[![Amazon Reviews NLP](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Amazon-Reviews-NLP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Amazon-Reviews-NLP)
 [![Disney Movies Wiki WebScraper](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Disney-Movies-Wiki-WebScraper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper)
-[![django-booklist](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=django-booklist&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/django-booklist)
 [![Housing Price Prediction ML WebApp](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Housing-Price-Prediction-ML-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Housing-Price-Prediction-ML-WebApp)
-[![Regex](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=regex&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/regex)
+[![django-booklist](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=django-booklist&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/django-booklist)
 
 <p align="left">
   <a href="https://github.com/sinjoysaha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
