@@ -68,10 +68,14 @@
   
   
 ## 🚀 Top Open Source Repos
-[![sinjoysaha/tiktokenizer-js - GitHub](https://gh-card.dev/repos/sinjoysaha/tiktokenizer-js.svg)](https://github.com/sinjoysaha/tiktokenizer-js)
-[![sinjoysaha/CSE587-final-project - GitHub](https://gh-card.dev/repos/sinjoysaha/CSE587-final-project.svg)](https://github.com/sinjoysaha/CSE587-final-project)
-[![sinjoysaha/gpt2-from-scratch - GitHub](https://gh-card.dev/repos/sinjoysaha/gpt2-from-scratch.svg)](https://github.com/sinjoysaha/gpt2-from-scratch)
-[![sinjoysaha/awesome-pytorch-tips - GitHub](https://gh-card.dev/repos/sinjoysaha/awesome-pytorch-tips.svg)](https://github.com/sinjoysaha/awesome-pytorch-tips)
+<div align="center">
+<a href="https://github.com/sinjoysaha/tiktokenizer-js"><img src="https://gh-card.dev/repos/sinjoysaha/tiktokenizer-js.svg" width="45%"></a>
+<a href="https://github.com/sinjoysaha/CSE587-final-project"><img src="https://gh-card.dev/repos/sinjoysaha/CSE587-final-project.svg" width="45%"></a>
+</div>
+<div align="center">
+<a href="https://github.com/sinjoysaha/gpt2-from-scratch"><img src="https://gh-card.dev/repos/sinjoysaha/gpt2-from-scratch.svg" width="45%"></a>
+<a href="https://github.com/sinjoysaha/awesome-pytorch-tips"><img src="https://gh-card.dev/repos/sinjoysaha/awesome-pytorch-tips.svg" width="45%"></a>
+</div>
 
 <p align="left">
   <a href="https://github.com/sinjoysaha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
