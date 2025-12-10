@@ -54,9 +54,8 @@
 <br/>
 
 ## 📚 Stacks
-|  |  |
-|:---|:---|
 | **DL** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C) ![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFCC00) ![TRL](https://img.shields.io/badge/TRL-000000?style=for-the-badge&logo=huggingface&logoColor=FFCC00) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=sapcy&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=ONNX&logoColor=white) |
+|:---|:---|
 | **ML** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458) |
 | **Image** | ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8) ![OpenSlide](https://img.shields.io/badge/OpenSlide-000000?style=for-the-badge&logo=openslide&logoColor=4DABCF) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Milvus](https://img.shields.io/badge/Milvus-000000?style=for-the-badge&logo=milvus&logoColor=00B5AD) ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=facebook&logoColor=1877F2) |
