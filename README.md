@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; 👋 Hey there, I'm
                 <b><a target="_blank" href="https://sinjoysaha.github.io">Sinjoy Saha</a></b>
         </samp>
 </h3>
@@ -8,41 +8,30 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Sinjoy+Saha">「 Google Me 」</a>
     <br>
-    「 I am a Data Scientist from <b>India</b>. 」
+    A 2<sup>nd</sup> year MS student in CSE at Penn State, where I focus on LLM training, RL and large-scale document analysis.
     <br>
     <br>
+    <!-- <a target="_blank" href="https://www.google.com/search?q=Sinjoy+Saha">「 Google Me 」</a> -->
   </samp>
 </p>
 
 <p align="center">
  <a href="https://sinjoysaha.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sinjoysaha" />
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Sinjoy's Website" />
  </a>
  <a href="https://linkedin.com/in/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sinjoysaha"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="Sinjoy's Linkedin"/>
  </a>
- <a href="https://twitter.com/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://x.com/sinjoysaha" target="_blank">
+  <img src="https://img.shields.io/badge/%40sinjoysaha-000000?logo=x&style=for-the-badge" alt="Sinjoy's X"/>
  </a>
  <a href="https://scholar.google.com/citations?user=xNXqCc0AAAAJ&hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285f4?&style=for-the-badge&logo=googlescholar&logoColor=white" alt="sinjoysaha"  />
+  <img src="https://img.shields.io/badge/Google%20Scholar-000000?&style=for-the-badge&logo=googlescholar&logoColor=white" alt="Sinjoy's Scholar"  />
   </a> 
-</p>
-
-
-<p align="center">
   <a href="https://www.kaggle.com/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="sinjoysaha"  />
+  <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white" alt="sinjoysaha"  />
   </a> 
-  <a href="https://www.hackerrank.com/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sinjoysaha"  />
-  </a> 
-  <a href="mailto:sinjoysaha555@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sinjoysaha"  />
-  </a> 
-
 </p>
 <br />
 
@@ -54,66 +43,35 @@
 
  🎓 &emsp; MS Computer Science and Engineering at the [Penn State Univeristy](https://www.psu.edu/).
 
- 💼 &emsp; Worked as a Senior Research Engineer at MI, [Siemens Healthineers](https://www.siemens-healthineers.com/molecular-imaging).
+ 👩🏻‍💻 &emsp; Interned as an SDE at [Bedrock Agents, AWS](https://aws.amazon.com/bedrock/agentcore/) on agentic workflows and tool-calling.
 
- ✌️ &emsp; Interested in Vision-Language Models and Robotics.
- 
- ❤️ &emsp; Passionate about coding and learning new features.
+ 💼 &emsp; Worked as a Senior Research Engineer at MI, [Siemens Healthineers](https://www.siemens-healthineers.com/molecular-imaging) on imaging and language processing projects.
 
- 💬 &emsp; Ask me about anything [here](https://github.com/sinjoysaha/sinjoysaha/issues).
+ ✌️ &emsp; Exploring LLMs and RL.
 
 </p>
 
 <br/>
 
-## 💬 Can Speak 
+## 📚 Stacks
+|  |  |
+|:---|:---|
+| **DL** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C) ![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFCC00) ![TRL](https://img.shields.io/badge/TRL-000000?style=for-the-badge&logo=huggingface&logoColor=FFCC00) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=sapcy&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=ONNX&logoColor=white) |
+| **ML** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458) |
+| **Image** | ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8) ![OpenSlide](https://img.shields.io/badge/OpenSlide-000000?style=for-the-badge&logo=openslide&logoColor=4DABCF) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Milvus](https://img.shields.io/badge/Milvus-000000?style=for-the-badge&logo=milvus&logoColor=00B5AD) ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=facebook&logoColor=1877F2) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688) ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3) ![Hugo](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=FF4088) |
+| **Cloud** | ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-000000?style=for-the-badge&logoColor=FF9900) ![Lambda](https://img.shields.io/badge/Lambda-000000?style=for-the-badge&logoColor=FF9900) ![S3](https://img.shields.io/badge/S3-000000?style=for-the-badge&logoColor=569A31) ![DynamoDB](https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logoColor=FF9900) ![SQS](https://img.shields.io/badge/SQS-000000?style=for-the-badge&logoColor=FF9900) |
+| **Dev Tools** | ![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=DE5FE9) ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=vscode&logoColor=007ACC) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=F37626) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED) |
 
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=matlab&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  
-## ✨ Use to Code
-  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![ONNX](https://img.shields.io/badge/ONNX-7a7a7a?style=for-the-badge&logo=ONNX&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-3294c7?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-105339?style=for-the-badge&logo=django&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/VSCode-49afef.svg?&style=for-the-badge&logo=vscode&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-<!-- - 📬 How to reach me
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinjoysaha)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SinjoySaha)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinjoysaha555@gmail.com)
-  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sinjoysaha)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sinjoysaha)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sinjoysaha) -->
   
   
 ## 🚀 Top Open Source Repos
-[![Tiktokenizer-js](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=tiktokenizer-js&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/tiktokenizer-js)
-[![Housing Price Prediction ML WebApp](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Housing-Price-Prediction-ML-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Housing-Price-Prediction-ML-WebApp)
-[![Amazon Reviews NLP](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Amazon-Reviews-NLP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Amazon-Reviews-NLP)
-[![Disney Movies Wiki WebScraper](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=Disney-Movies-Wiki-WebScraper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper)
-[![Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=sales-analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/sales-analysis)
-[![django-booklist](https://github-readme-stats.vercel.app/api/pin/?username=sinjoysaha&repo=django-booklist&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sinjoysaha/django-booklist)
+[![sinjoysaha/tiktokenizer-js - GitHub](https://gh-card.dev/repos/sinjoysaha/tiktokenizer-js.svg)](https://github.com/sinjoysaha/tiktokenizer-js)
+[![sinjoysaha/CSE587-final-project - GitHub](https://gh-card.dev/repos/sinjoysaha/CSE587-final-project.svg)](https://github.com/sinjoysaha/CSE587-final-project)
+[![sinjoysaha/gpt2-from-scratch - GitHub](https://gh-card.dev/repos/sinjoysaha/gpt2-from-scratch.svg)](https://github.com/sinjoysaha/gpt2-from-scratch)
+[![sinjoysaha/awesome-pytorch-tips - GitHub](https://gh-card.dev/repos/sinjoysaha/awesome-pytorch-tips.svg)](https://github.com/sinjoysaha/awesome-pytorch-tips)
 
 <p align="left">
   <a href="https://github.com/sinjoysaha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
