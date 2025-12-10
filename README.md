@@ -17,37 +17,26 @@
 </p>
 
 <p align="center">
- <a href="https://sinjoysaha.github.io" target="blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Sinjoy's Website" />
- </a>
- <a href="https://linkedin.com/in/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="Sinjoy's Linkedin"/>
- </a>
- <a href="https://x.com/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/%40sinjoysaha-000000?logo=x&style=for-the-badge" alt="Sinjoy's X"/>
- </a>
- <a href="https://scholar.google.com/citations?user=xNXqCc0AAAAJ&hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-000000?&style=for-the-badge&logo=googlescholar&logoColor=white" alt="Sinjoy's Scholar"  />
-  </a> 
-  <a href="https://www.kaggle.com/sinjoysaha" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white" alt="sinjoysaha"  />
-  </a> 
+ <a href="https://sinjoysaha.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Sinjoy's Website" /></a>
+ <a href="https://linkedin.com/in/sinjoysaha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="Sinjoy's Linkedin"/></a>
+ <a href="https://x.com/sinjoysaha" target="_blank"><img src="https://img.shields.io/badge/%40sinjoysaha-000000?logo=x&style=for-the-badge" alt="Sinjoy's X"/></a>
+ <a href="https://scholar.google.com/citations?user=xNXqCc0AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-000000?&style=for-the-badge&logo=googlescholar&logoColor=white" alt="Sinjoy's Scholar"  /></a> 
+  <a href="https://www.kaggle.com/sinjoysaha" target="_blank"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white" alt="sinjoysaha"  /></a>
 </p>
 <br />
 
-<!-- About Section -->
  # About me
  
 <p>
  <img align="right" width="240" src="img/coder.gif" alt="Hello gif" />
 
- 🎓 &emsp; MS Computer Science and Engineering at the [Penn State Univeristy](https://www.psu.edu/).
+ 🎓 MS Computer Science and Engineering at the [Penn State Univeristy](https://www.psu.edu/).
 
- 👩🏻‍💻 &emsp; Interned as an SDE at [Bedrock Agents, AWS](https://aws.amazon.com/bedrock/agentcore/) on agentic workflows and tool-calling.
+ 👩🏻‍💻 Interned as an SDE at [Bedrock Agents, AWS](https://aws.amazon.com/bedrock/agentcore/) on agentic workflows and tool-calling.
 
- 💼 &emsp; Worked as a Senior Research Engineer at MI, [Siemens Healthineers](https://www.siemens-healthineers.com/molecular-imaging) on imaging and language processing projects.
+ 💼 Worked as a Senior Research Engineer at MI, [Siemens Healthineers](https://www.siemens-healthineers.com/molecular-imaging) on imaging and language processing projects.
 
- ✌️ &emsp; Exploring LLMs and RL.
+ ✌️ Exploring LLMs and RL.
 
 </p>
 
@@ -65,7 +54,7 @@
 | **Dev Tools** | ![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=DE5FE9) ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=vscode&logoColor=007ACC) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=F37626) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED) |
 
   
-  
+
 ## 🚀 Top Open Source Repos
 <div align="center">
 <a href="https://github.com/sinjoysaha/tiktokenizer-js"><img src="https://gh-card.dev/repos/sinjoysaha/tiktokenizer-js.svg" width="45%"></a>
@@ -75,6 +64,8 @@
 <a href="https://github.com/sinjoysaha/gpt2-from-scratch"><img src="https://gh-card.dev/repos/sinjoysaha/gpt2-from-scratch.svg" width="45%"></a>
 <a href="https://github.com/sinjoysaha/awesome-pytorch-tips"><img src="https://gh-card.dev/repos/sinjoysaha/awesome-pytorch-tips.svg" width="45%"></a>
 </div>
+
+<br>
 
 <p align="left">
   <a href="https://github.com/sinjoysaha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
